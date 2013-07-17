@@ -1,5 +1,5 @@
 {
-    "name": "claroline/taxonomy-bundle",
+    "name": "arnaudbey/taxonomy-bundle",
     "description": "taxonomy bundle for Claroline 2.0",
     "require": {
         "php": ">=5.3.3",
